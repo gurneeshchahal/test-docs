@@ -27,3 +27,6 @@ This is another test
 
 Consider this another test
 ==========================
+
+Consider This is another test
+====================
