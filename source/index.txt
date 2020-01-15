@@ -1,5 +1,5 @@
 ====================
-Gurneesh Django documentation
+Webkul Django documentation
 ====================
 
 .. rubric:: Everything you need to know about Django.
